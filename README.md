@@ -1,2 +1,7 @@
-# Feedback-Management-Diploma-Project
-Here i upload my Diploma time Capstone project which we will done in 2 semister
+# Teacher-Student-Feedback-System
+
+This project created by..!
+1.uday payghon
+2.pavan bhujang
+3.abhishek lipne
+4.swaraj dose
